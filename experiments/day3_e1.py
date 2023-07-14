@@ -10,16 +10,11 @@ while True:
             todos.append(todo)
         case 'show':
             for item in todos:
-                item = item.title()
                 print(item)
         case 'exit':
             break
         case whatever:
             print("You entered an unknown command")
-            break
+    #This is just an example to show that it is possible if you want you can include a variable - in this case whatever to say that if a case isn't matched then it tell you this.
 
 print("Bye!")
-
-
-
-
