@@ -1,4 +1,4 @@
-# 3 Month Python Coding Challenge
+# 2 Month Python Coding Challenge
 
 A coding challenge putting python into real life scenarios. To further my ability and understanding of python. 
 I will be creating different apps all with python! 
