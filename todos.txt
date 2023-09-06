@@ -1,5 +1,3 @@
-Write
-Fix
-Play
-Football
-Fix the Computer
+Add a new player
+Update the OS
+Get petrol for car
