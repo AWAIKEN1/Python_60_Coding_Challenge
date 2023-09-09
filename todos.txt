@@ -1,3 +1,5 @@
 Add a new player
 Update the OS
 Get petrol for car
+Make soup
+Make pizza
