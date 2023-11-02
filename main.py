@@ -13,7 +13,7 @@ def write_todos(todos_arg, filepath="todos.txt"):
 
 
 while True:
-    # Get user input and strip space chars from it
+    # Get user input and strip space characters from it
     user_action = input("Type add, show, edit, complete or exit: ")
     user_action = user_action.strip()
 
