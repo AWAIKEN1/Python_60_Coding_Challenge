@@ -19,7 +19,6 @@ while True:
         functions.write_todos(todos)
         #Don't need second arg as filepath = "todos.txt" is default argument
 
-
     elif user_action.startswith('show'):
 
         todos = functions.get_todos()
