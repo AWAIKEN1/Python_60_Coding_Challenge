@@ -1,6 +1,6 @@
 # Python Coding Course
 
-Greetings!
+Hi!
 
 I'm currently undertaking a coding course, delving into the intricacies of Python. 
 
